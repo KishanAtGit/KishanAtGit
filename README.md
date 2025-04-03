@@ -10,7 +10,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KishanAtGit&theme=dark)
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=KishanAtGit&hide=prs,issues&show_icons=true&theme=gruvbox)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KishanAtGit&layout=compact&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KishanAtGit&show_icons=true&theme=gruvbox&random=42)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KishanAtGit&layout=compact&theme=gruvbox)
 
 
 ## 📫 Contact Me  
