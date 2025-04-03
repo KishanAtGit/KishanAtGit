@@ -13,7 +13,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KishanAtGit&show_icons=true&theme=gruvbox)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KishanAtGit&layout=compact&theme=gruvbox)
 
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR-SPOTIFY-ID&cover_image=true)](https://open.spotify.com/user/31ti45c6db4vf45tsbeqpdrqpbeu)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ti45c6db4vf45tsbeqpdrqpbeu&cover_image=true)](https://open.spotify.com/user/31ti45c6db4vf45tsbeqpdrqpbeu)
 
 
 ## 📫 Contact Me  
