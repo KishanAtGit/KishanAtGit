@@ -12,5 +12,3 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KishanAtGit&show_icons=true&theme=gruvbox)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KishanAtGit&layout=compact&theme=gruvbox)
 
-![Snake Animation](https://github.com/KishanAtGit/KishanAtGit/blob/output/github-contribution-grid-snake.svg)
-
