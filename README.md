@@ -4,11 +4,11 @@
 🔭 Currently working on **Node.js & React**
 
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=KishanAtGit&theme=dark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=KishanAtGit&theme=gruvbox)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KishanAtGit&theme=dark)
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KishanAtGit&show_icons=true&theme=dark)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KishanAtGit&layout=compact&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KishanAtGit&show_icons=true&theme=gruvbox)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KishanAtGit&layout=compact&theme=gruvbox)
 
